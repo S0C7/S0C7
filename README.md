@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @S0C7
 - 👀 I’m interested in collaborating on open source projects
-- 🌱 I’m currently building a fully scalable e2e SaaS application (Single page application on aws s3, with scalable serverlesss lambda apis and dynamodb)
-- 💞️ I’m looking to collaborate on Java, Python, C/C++ projects, and building SaaS apps (any cool startup ideas!)
+- 🌱 I’m currently building a fully scalable e2e SaaS application (Single page application on aws s3, with scalable serverlesss lambda apis and dynamodb on the backend)
+- 💞️ I’m looking to collaborate on:
+  - **Startup Ideas**
+  - Contributing to open source projects that can help people and society on Java, Python, C/C++ projects.
+  - Building an e2e cloud native SaaS app for fun!
 - 📫 How to reach me: github
 
 <!---
