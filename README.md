@@ -5,6 +5,7 @@
   - **Startup Ideas**
   - Contributing to open source projects that can help people and society on Java, Python, C/C++ projects.
   - Building an e2e cloud native SaaS app for fun!
+  - I'm looking to contribute in ML/AI and genAI space!
 - 📫 How to reach me: github
 
 <!---
